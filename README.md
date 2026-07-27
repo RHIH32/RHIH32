@@ -1,62 +1,64 @@
 <div align="center">
-  <!-- Hacker Matrix Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;Welcome+to+the+Mainframe,+User.;I+am+Ravi+Kumar+-+The+Architect.;System+Status:+ONLINE+..._>" alt="Typing" />
+  <!-- Ultra Unique Hacker Banner -->
+  <a href="https://github.com/RHIH32">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f172a&height=220&section=header&text=System.out.println(%22Ravi%20Kumar%22);&fontSize=40&fontColor=00ffcc&animation=twinkling&desc=AI%20Engineer%20%7C%20Full-Stack%20Alchemist&descAlign=50&descAlignY=65&descSize=20&descColor=818cf8" width="100%"/>
+  </a>
 </div>
 
 <br>
 
-<!-- 🚨 NEOFETCH TERMINAL UI (Sabse Khatarnak Feature) -->
-<table align="center" border="0" cellpadding="20" cellspacing="0" width="90%" style="background-color: #0d1117; border-radius: 12px; border: 1px solid #00FF00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);">
+<!-- Terminal Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFCC&background=0F172A00&center=true&vCenter=true&width=600&lines=Initializing+AI+Core...;Connecting+to+IndusGPT...;Loading+Circuit+Logic+Game...;Welcome+to+my+Digital+Workspace!_>" alt="Terminal Typing" />
+</div>
+
+<br>
+
+<!-- 🚀 THE DASHBOARD GRID (Most Unique Feature) -->
+<table align="center" border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <!-- Profile Photo with Glowing Border -->
-      <img src="https://avatars.githubusercontent.com/RHIH32" width="160" style="border-radius: 50%; border: 3px solid #00FF00;"/>
+    <!-- Left Column: 3D Skills -->
+    <td width="55%" align="center" valign="top">
+      <h3 align="center">⚡ Mastered Technologies</h3>
+      <p align="center">
+        <!-- New 3D Glassy Icons (Much better than old shields) -->
+        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,androidstudio,git&perline=5" />
+      </p>
     </td>
-    <td width="70%" align="left" valign="top">
-      <h2 style="color: #00FF00; margin: 0; font-family: monospace; font-size: 22px;">root@ravikumar:~# neofetch</h2>
-      <br>
-      <p style="color: #c9d1d9; font-family: monospace; font-size: 16px; line-height: 1.8;">
-        <b style="color: #00FF00;">OS:</b> Developer_Mindset v2.0<br>
-        <b style="color: #00FF00;">Host:</b> Earth (India 🇮🇳)<br>
-        <b style="color: #00FF00;">Uptime:</b> 20 Years<br>
-        <b style="color: #00FF00;">Shell:</b> ZSH (IndusGPT Custom)<br>
-        <b style="color: #00FF00;">Brain_RAM:</b> 100% Focused<br>
-        <b style="color: #00FF00;">Flagship_Projects:</b> IndusGPT, Circuit Logic<br>
-        <b style="color: #00FF00;">Mission:</b> Writing code that changes the world.
+    <!-- Right Column: Projects -->
+    <td width="45%" align="left" valign="top">
+      <h3 align="center">🚀 Flagship Projects</h3>
+      <p>
+        🤖 <b>IndusGPT:</b> The Ultimate Desi AI Assistant<br><br>
+        🎮 <b>Circuit Logic:</b> Logical Puzzle Game<br><br>
+        ✍️ <b>Jivan Kaise Jiye:</b> Life Management Guide
       </p>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- 🏆 GAMIFIED TROPHIES -->
+<!-- Transparent Stats Cards (Blends with GitHub Background) -->
 <div align="center">
-  <h3 align="center" style="color: #00FF00; font-family: monospace;">[ 🏆 SYSTEM.ACHIEVEMENTS ]</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RHIH32&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="RHIH32 Trophies" />
+  <h3 align="center">📡 Live Telemetry</h3>
+  <a href="https://github.com/RHIH32">
+    <!-- bg_color=00000000 makes it fully transparent and floating -->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RHIH32&show_icons=true&theme=hacker&hide_border=true&bg_color=00000000&title_color=00ffcc&icon_color=818cf8&text_color=ffffff" height="180" />
   </a>
-</div>
-
-<br><br>
-
-<!-- ⚡ GLOWING ARSENAL (Skills) -->
-<div align="center">
-  <h3 align="center" style="color: #00FF00; font-family: monospace;">[ ⚡ TECH.ARSENAL ]</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,androidstudio,git,github,vscode,figma&perline=7" />
-</div>
-
-<br><br>
-
-<!-- 📈 INVISIBLE STATS & TOP LANGUAGES -->
-<div align="center">
-  <h3 align="center" style="color: #00FF00; font-family: monospace;">[ 📈 LIVE.TELEMETRY ]</h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RHIH32&show_icons=true&theme=hacker&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RHIH32&layout=compact&theme=hacker&hide_border=true&bg_color=00000000&title_color=00FF00&text_color=ffffff" width="48%" />
+  <a href="https://github.com/RHIH32">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RHIH32&theme=hacker&hide_border=true&background=00000000&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="180" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RHIH32&label=SYS.VIEWS&color=00FF00&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=RHIH32&label=SYS.VIEWS&color=00ffcc&style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Writing code that makes a difference."</i>
 </div>

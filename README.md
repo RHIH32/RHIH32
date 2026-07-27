@@ -1,12 +1,21 @@
-<!-- Clean Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4F46E5&height=180&section=header&text=Ravi%20Kumar&fontSize=55&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Application%20Engineer&descAlignY=70&descSize=22" width="100%" />
+<!-- Space Vibe Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Ravi+Kumar;Software+Developer;AI+Application+Engineer" alt="Ravi Kumar" />
+</div>
+
+<!-- Animated Starfield Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="mailto:indusgptai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00D4FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/RHIH32">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B1120?style=for-the-badge&logo=github&logoColor=00D4FF" />
   </a>
 </div>
 
@@ -23,26 +32,32 @@ I am a driven **Software Developer** currently pursuing my undergraduate degree,
 
 <br>
 
+<!-- Animated Space Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+
 ## 🛠️ Technical Arsenal
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0B1120&border=00D4FF" />
+  <img src="https://img.shields.io/badge/Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0B1120?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0B1120?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Android_Studio-0B1120?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Figma-0B1120?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
 <br>
+
+<!-- Animated Space Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
 
 ## 🚀 Featured Work
 
@@ -54,14 +69,18 @@ I am a driven **Software Developer** currently pursuing my undergraduate degree,
 
 <br>
 
+<!-- Animated Space Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8" />
+
 ## 📊 Analytics & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RHIH32&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&text_color=777777&icon_color=4F46E5" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RHIH32&layout=compact&theme=transparent&hide_border=true&title_color=4F46E5&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RHIH32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=c9d1d9&icon_color=00D4FF" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RHIH32&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=c9d1d9" width="48%" />
 </div>
 
-<hr>
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RHIH32&label=Profile%20Views&color=4F46E5&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RHIH32&label=Profile%20Views&color=00D4FF&style=flat-square" />
 </div>
